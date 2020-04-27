@@ -1,1 +1,1 @@
-# SpringProject
+# Mybatisを勉強するためだけのProject
